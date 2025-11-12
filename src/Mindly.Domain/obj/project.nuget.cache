@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I1agijNDVNk=",
+  "success": true,
+  "projectFilePath": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/nataliadeoliveirasantos/.nuget/packages/microsoft.netcore.app.ref/8.0.19/microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
+    "/Users/nataliadeoliveirasantos/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.19/microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

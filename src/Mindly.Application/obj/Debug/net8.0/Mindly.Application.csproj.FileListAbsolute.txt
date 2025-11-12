@@ -1,0 +1,15 @@
+/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/bin/Debug/net8.0/Mindly.Application.deps.json
+/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/bin/Debug/net8.0/Mindly.Application.dll
+/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/bin/Debug/net8.0/Mindly.Application.pdb
+/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/bin/Debug/net8.0/Mindly.Domain.dll
+/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/bin/Debug/net8.0/Mindly.Domain.pdb
+/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/obj/Debug/net8.0/Mindly.Application.csproj.AssemblyReference.cache
+/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/obj/Debug/net8.0/Mindly.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/obj/Debug/net8.0/Mindly.Application.AssemblyInfoInputs.cache
+/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/obj/Debug/net8.0/Mindly.Application.AssemblyInfo.cs
+/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/obj/Debug/net8.0/Mindly.Application.csproj.CoreCompileInputs.cache
+/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/obj/Debug/net8.0/Mindly.A.95382E74.Up2Date
+/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/obj/Debug/net8.0/Mindly.Application.dll
+/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/obj/Debug/net8.0/refint/Mindly.Application.dll
+/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/obj/Debug/net8.0/Mindly.Application.pdb
+/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/obj/Debug/net8.0/ref/Mindly.Application.dll
