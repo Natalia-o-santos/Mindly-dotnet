@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Infrastructure/Mindly.Infrastructure.csproj": {}
+    "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/Mindly.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/Mindly.Application.csproj": {
+    "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Application/Mindly.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/Mindly.Application.csproj",
+        "projectUniqueName": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Application/Mindly.Application.csproj",
         "projectName": "Mindly.Application",
-        "projectPath": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/Mindly.Application.csproj",
+        "projectPath": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Application/Mindly.Application.csproj",
         "packagesPath": "/Users/nataliadeoliveirasantos/.nuget/packages/",
-        "outputPath": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/obj/",
+        "outputPath": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nataliadeoliveirasantos/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj": {
-                "projectPath": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj"
+              "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj": {
+                "projectPath": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj": {
+    "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj",
+        "projectUniqueName": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj",
         "projectName": "Mindly.Domain",
-        "projectPath": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj",
+        "projectPath": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj",
         "packagesPath": "/Users/nataliadeoliveirasantos/.nuget/packages/",
-        "outputPath": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Domain/obj/",
+        "outputPath": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nataliadeoliveirasantos/.nuget/NuGet/NuGet.Config"
@@ -152,14 +152,14 @@
         }
       }
     },
-    "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Infrastructure/Mindly.Infrastructure.csproj": {
+    "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/Mindly.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Infrastructure/Mindly.Infrastructure.csproj",
+        "projectUniqueName": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/Mindly.Infrastructure.csproj",
         "projectName": "Mindly.Infrastructure",
-        "projectPath": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Infrastructure/Mindly.Infrastructure.csproj",
+        "projectPath": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/Mindly.Infrastructure.csproj",
         "packagesPath": "/Users/nataliadeoliveirasantos/.nuget/packages/",
-        "outputPath": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Infrastructure/obj/",
+        "outputPath": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nataliadeoliveirasantos/.nuget/NuGet/NuGet.Config"
@@ -174,11 +174,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/Mindly.Application.csproj": {
-                "projectPath": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/Mindly.Application.csproj"
+              "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Application/Mindly.Application.csproj": {
+                "projectPath": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Application/Mindly.Application.csproj"
               },
-              "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj": {
-                "projectPath": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj"
+              "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj": {
+                "projectPath": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj"
               }
             }
           }

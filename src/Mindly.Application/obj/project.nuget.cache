@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HZuJza5osy4=",
+  "dgSpecHash": "JFVJFhfWR/Y=",
   "success": true,
-  "projectFilePath": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Application/Mindly.Application.csproj",
+  "projectFilePath": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Application/Mindly.Application.csproj",
   "expectedPackageFiles": [
     "/Users/nataliadeoliveirasantos/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0/microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
     "/Users/nataliadeoliveirasantos/.nuget/packages/microsoft.netcore.app.ref/8.0.19/microsoft.netcore.app.ref.8.0.19.nupkg.sha512",

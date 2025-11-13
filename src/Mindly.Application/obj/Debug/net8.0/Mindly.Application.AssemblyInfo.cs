@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mindly.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe37b868b5c4a921aafd49b0fa26b3f2847dee2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mindly.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mindly.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

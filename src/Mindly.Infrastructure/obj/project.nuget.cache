@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s5ePcHHkW3M=",
+  "dgSpecHash": "Y4vjeFhH/rg=",
   "success": true,
-  "projectFilePath": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Infrastructure/Mindly.Infrastructure.csproj",
+  "projectFilePath": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/Mindly.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/nataliadeoliveirasantos/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/nataliadeoliveirasantos/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

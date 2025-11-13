@@ -9,3 +9,15 @@
 /Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Domain/obj/Debug/net8.0/refint/Mindly.Domain.dll
 /Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Domain/obj/Debug/net8.0/Mindly.Domain.pdb
 /Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Domain/obj/Debug/net8.0/ref/Mindly.Domain.dll
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/bin/Debug/net8.0/Mindly.Domain.deps.json
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/bin/Debug/net8.0/Mindly.Domain.dll
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/bin/Debug/net8.0/Mindly.Domain.pdb
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/obj/Debug/net8.0/Mindly.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/obj/Debug/net8.0/Mindly.Domain.AssemblyInfoInputs.cache
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/obj/Debug/net8.0/Mindly.Domain.AssemblyInfo.cs
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/obj/Debug/net8.0/Mindly.Domain.csproj.CoreCompileInputs.cache
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/obj/Debug/net8.0/Mindly.Domain.sourcelink.json
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/obj/Debug/net8.0/Mindly.Domain.dll
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/obj/Debug/net8.0/refint/Mindly.Domain.dll
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/obj/Debug/net8.0/Mindly.Domain.pdb
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/obj/Debug/net8.0/ref/Mindly.Domain.dll

@@ -17,3 +17,23 @@
 /Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Infrastructure/obj/Debug/net8.0/Mindly.Infrastructure.pdb
 /Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Infrastructure/obj/Debug/net8.0/Mindly.Infrastructure.genruntimeconfig.cache
 /Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Infrastructure/obj/Debug/net8.0/ref/Mindly.Infrastructure.dll
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/bin/Debug/net8.0/Mindly.Infrastructure.deps.json
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/bin/Debug/net8.0/Mindly.Infrastructure.runtimeconfig.json
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/bin/Debug/net8.0/Mindly.Infrastructure.dll
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/bin/Debug/net8.0/Mindly.Infrastructure.pdb
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/bin/Debug/net8.0/Mindly.Application.dll
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/bin/Debug/net8.0/Mindly.Domain.dll
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/bin/Debug/net8.0/Mindly.Domain.pdb
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/bin/Debug/net8.0/Mindly.Application.pdb
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/obj/Debug/net8.0/Mindly.Infrastructure.csproj.AssemblyReference.cache
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/obj/Debug/net8.0/Mindly.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/obj/Debug/net8.0/Mindly.Infrastructure.AssemblyInfoInputs.cache
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/obj/Debug/net8.0/Mindly.Infrastructure.AssemblyInfo.cs
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/obj/Debug/net8.0/Mindly.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/obj/Debug/net8.0/Mindly.Infrastructure.sourcelink.json
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/obj/Debug/net8.0/Mindly.I.9D9D644D.Up2Date
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/obj/Debug/net8.0/Mindly.Infrastructure.dll
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/obj/Debug/net8.0/refint/Mindly.Infrastructure.dll
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/obj/Debug/net8.0/Mindly.Infrastructure.pdb
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/obj/Debug/net8.0/Mindly.Infrastructure.genruntimeconfig.cache
+/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Infrastructure/obj/Debug/net8.0/ref/Mindly.Infrastructure.dll

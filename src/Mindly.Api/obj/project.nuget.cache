@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UZp9coDyPl8=",
+  "dgSpecHash": "Cgs7Yn+kXJM=",
   "success": true,
-  "projectFilePath": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Api/Mindly.Api.csproj",
+  "projectFilePath": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Api/Mindly.Api.csproj",
   "expectedPackageFiles": [
     "/Users/nataliadeoliveirasantos/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/nataliadeoliveirasantos/.nuget/packages/microsoft.aspnetcore.openapi/8.0.21/microsoft.aspnetcore.openapi.8.0.21.nupkg.sha512",

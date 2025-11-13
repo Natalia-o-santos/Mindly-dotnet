@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I1agijNDVNk=",
+  "dgSpecHash": "Bh733gcC8gE=",
   "success": true,
-  "projectFilePath": "/Users/nataliadeoliveirasantos/Desktop/dotnet-gs/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj",
+  "projectFilePath": "/Users/nataliadeoliveirasantos/Documents/pasta sem título/Mindly-dotnet/src/Mindly.Domain/Mindly.Domain.csproj",
   "expectedPackageFiles": [
     "/Users/nataliadeoliveirasantos/.nuget/packages/microsoft.netcore.app.ref/8.0.19/microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
     "/Users/nataliadeoliveirasantos/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.19/microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512"
